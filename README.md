@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a person who makes code.
+I'm currently working on my fork of digital-logic-sim-chip-compiler.
+I'm learning Python, and that's the only language under my belt (I'm dumb).
 
 <!--
 **bill090/bill090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
